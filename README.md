@@ -3,31 +3,31 @@
 This repository contains a collection of my frontend mentor challenge projects,
 the goal of these challenges is to increase my knowledge in react, nextjs & typescript.
 
-| Project | ⭐ / 5 | Link to Live Site |
-|---------|------------------|-------------------|
-| **Product Feedback App** | ⭐⭐⭐⭐⭐ | [Live Site](link-to-product-feedback-app) |
-| **Dev Jobs** | ⭐⭐⭐⭐ | [Live Site](link-to-dev-jobs) |
-| **Entertainment Web App** | ⭐⭐⭐⭐ | [Live Site](link-to-entertainment-web-app) |
-| **Restful Countries** | ⭐⭐⭐⭐ | [Live Site](link-to-restful-countries) |
-| **Rock, Paper, Scissors** | ⭐⭐⭐⭐ | [Live Site](link-to-rock-papper-scissors) |
-| **Calculator App** | ⭐⭐⭐ | [Live Site](link-to-calculator-app) |
-| **Clock App** | ⭐⭐⭐ | [Live Site](link-to-clock-app) |
-| **Dictionary Web App** | ⭐⭐⭐ | [Live Site](link-to-dictionary-web-app) |
-| **E-commerce Product** | ⭐⭐⭐ | [Live Site](link-to-e-commerce-product) |
-| **Galleria Sideshow** | ⭐⭐⭐ | [Live Site](link-to-galleria-sideshow) |
-| **Interactive Comments** | ⭐⭐⭐ | [Live Site](link-to-interactive-comments) |
-| **Job Listing** | ⭐⭐⭐ | [Live Site](link-to-job-listing) |
-| **Password Generator App** | ⭐⭐⭐ | [Live Site](link-to-password-generator-app) |
-| **Todo App** | ⭐⭐⭐ | [Live Site](link-to-todo-app) |
-| **Advice Generator App** | ⭐⭐ | [Live Site](link-to-advice-generator-app) |
-| **GitHub User Search App** | ⭐⭐ | [Live Site](link-to-github-user-search-app) |
-| **Newsletter Signup Form** | ⭐⭐ | [Live Site](link-to-newsletter-signup-form) |
-| **Time Tracking Dashboard** | ⭐⭐ | [Live Site](link-to-time-tracking-dashboard) |
-| **Tip Calculator App** | ⭐⭐ | [Live Site](link-to-tip-calculator-app) |
-| **Article Preview** | ⭐ | [Live Site](link-to-article-preview) |
-| **FAQ** | ⭐ | [Live Site](link-to-faq) |
-| **FAQ Card** | ⭐ | [Live Site](link-to-faq-card) |
-| **Interactive Rating Component** | ⭐ | [Live Site](link-to-interactive-rating-component) |
-| **Introductory Section** | ⭐ | [Live Site](link-to-introductory-section) |
-| **NFT Card** | ⭐ | [Live Site](link-to-nft-card) |
-| **Results Summary Component** | ⭐ | [Live Site](link-to-results-summary-component) |
+| # | Project | ⭐ / 5 | Link to Live Site |
+|---|---------|------------------|-------------------|
+| 0 | **Product Feedback App** | ⭐⭐⭐⭐⭐ | [Live Site](link-to-product-feedback-app) |
+| 1 | **Dev Jobs** | ⭐⭐⭐⭐ | [Live Site](link-to-dev-jobs) |
+| 2 | **Entertainment Web App** | ⭐⭐⭐⭐ | [Live Site](link-to-entertainment-web-app) |
+| 3 | **Restful Countries** | ⭐⭐⭐⭐ | [Live Site](link-to-restful-countries) |
+| 4 | **Rock, Paper, Scissors** | ⭐⭐⭐⭐ | [Live Site](link-to-rock-papper-scissors) |
+| 5 | **Calculator App** | ⭐⭐⭐ | [Live Site](link-to-calculator-app) |
+| 6 | **Clock App** | ⭐⭐⭐ | [Live Site](link-to-clock-app) |
+| 7 | **Dictionary Web App** | ⭐⭐⭐ | [Live Site](link-to-dictionary-web-app) |
+| 8 | **E-commerce Product** | ⭐⭐⭐ | [Live Site](link-to-e-commerce-product) |
+| 9 | **Galleria Sideshow** | ⭐⭐⭐ | [Live Site](link-to-galleria-sideshow) |
+| 10 | **Interactive Comments** | ⭐⭐⭐ | [Live Site](link-to-interactive-comments) |
+| 11 | **Job Listing** | ⭐⭐⭐ | [Live Site](link-to-job-listing) |
+| 12 | **Password Generator App** | ⭐⭐⭐ | [Live Site](link-to-password-generator-app) |
+| 13 | **Todo App** | ⭐⭐⭐ | [Live Site](link-to-todo-app) |
+| 14 | **Advice Generator App** | ⭐⭐ | [Live Site](link-to-advice-generator-app) |
+| 15 | **GitHub User Search App** | ⭐⭐ | [Live Site](link-to-github-user-search-app) |
+| 16 | **Newsletter Signup Form** | ⭐⭐ | [Live Site](link-to-newsletter-signup-form) |
+| 17 | **Time Tracking Dashboard** | ⭐⭐ | [Live Site](link-to-time-tracking-dashboard) |
+| 18 | **Tip Calculator App** | ⭐⭐ | [Live Site](link-to-tip-calculator-app) |
+| 19 | **Article Preview** | ⭐ | [Live Site](link-to-article-preview) |
+| 20 | **FAQ** | ⭐ | [Live Site](link-to-faq) |
+| 21 | **FAQ Card** | ⭐ | [Live Site](link-to-faq-card) |
+| 22 | **Interactive Rating Component** | ⭐ | [Live Site](link-to-interactive-rating-component) |
+| 23 | **Introductory Section** | ⭐ | [Live Site](link-to-introductory-section) |
+| 24 | **NFT Card** | ⭐ | [Live Site](link-to-nft-card) |
+| 25 | **Results Summary Component** | ⭐ | [Live Site](link-to-results-summary-component) |
