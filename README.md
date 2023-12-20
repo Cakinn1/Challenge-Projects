@@ -19,16 +19,17 @@ the goal of these challenges is to increase my knowledge in react, nextjs & type
 | 11 | **Job Listing** | ⭐⭐⭐ | [Live Site](link-to-job-listing) |
 | 12 | **Password Generator App** | ⭐⭐⭐ | [Live Site](link-to-password-generator-app) |
 | 13 | **Todo App** | ⭐⭐⭐ | [Live Site](link-to-todo-app) |
-| 14 | **Advice Generator App** | ⭐⭐ | [Live Site](link-to-advice-generator-app) |
-| 15 | **GitHub User Search App** | ⭐⭐ | [Live Site](link-to-github-user-search-app) |
-| 16 | **Newsletter Signup Form** | ⭐⭐ | [Live Site](link-to-newsletter-signup-form) |
-| 17 | **Time Tracking Dashboard** | ⭐⭐ | [Live Site](link-to-time-tracking-dashboard) |
-| 18 | **Tip Calculator App** | ⭐⭐ | [Live Site](link-to-tip-calculator-app) |
-| 19 | **News Home-page** | ⭐⭐ | [Live Site](link-to-advice-generator-app) |
-| 20 | **Article Preview** | ⭐ | [Live Site](link-to-article-preview) |
-| 21 | **FAQ** | ⭐ | [Live Site](link-to-faq) |
-| 22 | **FAQ Card** | ⭐ | [Live Site](link-to-faq-card) |
-| 23 | **Interactive Rating Component** | ⭐ | [Live Site](link-to-interactive-rating-component) |
-| 24 | **Introductory Section** | ⭐ | [Live Site](link-to-introductory-section) |
-| 25 | **NFT Card** | ⭐ | [Live Site](link-to-nft-card) |
-| 26 | **Results Summary Component** | ⭐ | [Live Site](link-to-results-summary-component) |
+| 14 | **Countdown timer** | ⭐⭐⭐ | [Live Site](link-to-password-generator-app) |
+| 15 | **Advice Generator App** | ⭐⭐ | [Live Site](link-to-advice-generator-app) |
+| 16 | **GitHub User Search App** | ⭐⭐ | [Live Site](link-to-github-user-search-app) |
+| 17 | **Newsletter Signup Form** | ⭐⭐ | [Live Site](link-to-newsletter-signup-form) |
+| 18 | **Time Tracking Dashboard** | ⭐⭐ | [Live Site](link-to-time-tracking-dashboard) |
+| 19 | **Tip Calculator App** | ⭐⭐ | [Live Site](link-to-tip-calculator-app) |
+| 20 | **News Home-page** | ⭐⭐ | [Live Site](link-to-advice-generator-app) |
+| 21 | **Article Preview** | ⭐ | [Live Site](link-to-article-preview) |
+| 22 | **FAQ** | ⭐ | [Live Site](link-to-faq) |
+| 23 | **FAQ Card** | ⭐ | [Live Site](link-to-faq-card) |
+| 24 | **Interactive Rating Component** | ⭐ | [Live Site](link-to-interactive-rating-component) |
+| 25 | **Introductory Section** | ⭐ | [Live Site](link-to-introductory-section) |
+| 26 | **NFT Card** | ⭐ | [Live Site](link-to-nft-card) |
+| 27 | **Results Summary Component** | ⭐ | [Live Site](link-to-results-summary-component) |
