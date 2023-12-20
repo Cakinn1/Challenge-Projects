@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #10141e;
+}
+
+/* nav bar */
+
+img:hover {
+  @apply fill-[#FC4747] 
+}

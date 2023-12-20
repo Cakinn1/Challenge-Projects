@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap");
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-rubik {
+    font-family: "Rubik", sans-serif !important;
+  }
+  
+
+
+body {
+  background-color: hsl(226, 43%, 10%);
+}
+
+.main-card {
+  background-color: hsl(235, 46%, 20%);
+}
+
+
+
+.main-card > #inner-div {
+  background-color: hsl(246, 80%, 60%);
+}
+
+
+
+#input-value__text {
+  color: hsl(235, 45%, 61%);
+  transition: all 0.3s ease-in-out;
+}
+
+#input-value__text:hover {
+  color: white;
+}
+
+
+.card-main {
+  background-color: hsl(235, 46%, 20%);
+  z-index: 50;
+}

@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button {
+    background-color: hsl(224, 30%, 27%);
+    color: white;
+    padding: 0.8rem 0;
+    border: none;
+    border-radius: 100px;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  button:hover {
+    background-gradient: to top, #2e2be9, #7857ff;
+    transition: background-color 0.2s ease-in-out; /* explicitly define transition for hover state */
+  }

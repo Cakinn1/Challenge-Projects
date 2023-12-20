@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.animate__out {
+    transform: translateY(-300px);
+    transition: all 0.3s ease-in-out;
+}
+
+.animate__in {
+    transform: translateY(0);
+    transition: all 0.3s ease-in-out;
+}
+
+
+  

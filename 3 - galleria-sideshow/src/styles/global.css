@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+body {
+    font-family: Libre Baskerville, sans-serif;
+}
+
+.gallery-item {
+    width: 310px;
+    min-height: 250px; /* adjust as needed */
+  }
+
+
+  .img-item:nth-child(1) {
+    height: 250px;
+}
+
+.gallery-item:nth-child(1) {
+    height: 250px;
+}
+
+.gallery-item:nth-child(2) {
+    height: 340px;
+}
+.gallery-item:nth-child(9) {
+    height: 310px;
+}
+
+.gallery-item:nth-child(5) {
+    height: 410px;
+}
+
+.gallery-item:nth-child(3) {
+    height: 420px;
+}
+
+
+.gallery-item:nth-child(4) {
+    height: 260px;
+}

@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input-shadow {
+  box-shadow: 0 0 16px 4px gainsboro;
+}
+
+body {
+  transition-duration: 300ms;
+}
+
+body.dark {
+  background-color: #141D2F;
+}
+
+.input-shadow-1 {
+  box-shadow: 0 0 4px 4px black;
+  
+}

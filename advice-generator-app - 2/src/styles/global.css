@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: hsl(218, 23%, 16%);
+}
+
+
+.button:hover {
+box-shadow: 0px 0px 30px 6px hsla(150, 100%, 65%, 45%);
+}
+/* hsla(150, 100%, 66%, 65%); */
