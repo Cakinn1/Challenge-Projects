@@ -24,10 +24,11 @@ the goal of these challenges is to increase my knowledge in react, nextjs & type
 | 16 | **Newsletter Signup Form** | ⭐⭐ | [Live Site](link-to-newsletter-signup-form) |
 | 17 | **Time Tracking Dashboard** | ⭐⭐ | [Live Site](link-to-time-tracking-dashboard) |
 | 18 | **Tip Calculator App** | ⭐⭐ | [Live Site](link-to-tip-calculator-app) |
-| 19 | **Article Preview** | ⭐ | [Live Site](link-to-article-preview) |
-| 20 | **FAQ** | ⭐ | [Live Site](link-to-faq) |
-| 21 | **FAQ Card** | ⭐ | [Live Site](link-to-faq-card) |
-| 22 | **Interactive Rating Component** | ⭐ | [Live Site](link-to-interactive-rating-component) |
-| 23 | **Introductory Section** | ⭐ | [Live Site](link-to-introductory-section) |
-| 24 | **NFT Card** | ⭐ | [Live Site](link-to-nft-card) |
-| 25 | **Results Summary Component** | ⭐ | [Live Site](link-to-results-summary-component) |
+| 19 | **News Home-page** | ⭐⭐ | [Live Site](link-to-advice-generator-app) |
+| 20 | **Article Preview** | ⭐ | [Live Site](link-to-article-preview) |
+| 21 | **FAQ** | ⭐ | [Live Site](link-to-faq) |
+| 22 | **FAQ Card** | ⭐ | [Live Site](link-to-faq-card) |
+| 23 | **Interactive Rating Component** | ⭐ | [Live Site](link-to-interactive-rating-component) |
+| 24 | **Introductory Section** | ⭐ | [Live Site](link-to-introductory-section) |
+| 25 | **NFT Card** | ⭐ | [Live Site](link-to-nft-card) |
+| 26 | **Results Summary Component** | ⭐ | [Live Site](link-to-results-summary-component) |
